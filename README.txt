@@ -1,3 +1,3 @@
-控制台实现目前，接下来希望可以加上界面，直接对合并目标文件和生成文件路径进行设置，还可以对分割文件的文件名设置！
+鎺у埗鍙板疄鐜扮洰鍓嶏紝鎺ヤ笅鏉ュ笇鏈涘彲浠ュ姞涓婄晫闈紝鐩存帴瀵瑰悎骞剁洰鏍囨枃浠跺拰鐢熸垚鏂囦欢璺緞杩涜璁剧疆锛岃繕鍙互瀵瑰垎鍓叉枃浠剁殑鏂囦欢鍚嶈缃紒
 ----------------------------------------------------------
 The console, the hope can add interface, directly to the target file and generate the file path set, also can be set to split the file filename.
