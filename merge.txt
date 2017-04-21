@@ -1,0 +1,6 @@
+D:\QT\build-Combine-Desktop_Qt_5_5_0_MinGW_32bit-Debug\test\111.txt
+11111
+D:\QT\build-Combine-Desktop_Qt_5_5_0_MinGW_32bit-Debug\test\123\333.txt
+3333
+D:\QT\build-Combine-Desktop_Qt_5_5_0_MinGW_32bit-Debug\test\2222.txt
+11111
